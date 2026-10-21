@@ -1,0 +1,13 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+
+# Original audio dataset
+dataset/
+
+# Temporary audio files
+temp_audio.wav
